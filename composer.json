@@ -1,11 +1,18 @@
 {
-
+    "name": "helton/gaac_app",
+    "description": "Sem descricao",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emanuel Paulo Chambal",
+            "email": "chambaljunior@outlook.pt"
+        }
+    ],
     "autoload":{
-        "psr-0":{
-            "Controllers": "app/"
+        "psr-4":{
+            "RandomTests\\": "controladora/"
         }
     },
-    "required-dev":{
-        "phpunit/phpunit": "3.7.*"
-    }
+    "require": {}
 }
