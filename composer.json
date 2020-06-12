@@ -1,0 +1,12 @@
+{
+
+    "autoload":{
+        "psr-0":{
+            "Controllers": "app/"
+        }
+    },
+    "required":{
+        "phpunit/phpunit": "3.7.*",
+        "monolog/monolog": "1.0.*"
+    }
+}
