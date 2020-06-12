@@ -5,8 +5,7 @@
             "Controllers": "app/"
         }
     },
-    "required":{
-        "phpunit/phpunit": "3.7.*",
-        "monolog/monolog": "1.0.*"
+    "required-dev":{
+        "phpunit/phpunit": "3.7.*"
     }
 }

@@ -20,7 +20,7 @@
         $_SESSION ['loginError'] = " Usuário ou Senha Inválida. " ;
 
         // Mantem o usuario na pagina de Login.
-         header ("location: ../index.html") ;
+         header ("location: ../index.php") ;
     }else{
         $_SESSION['id'] = $log ['id'];
         $_SESSION['nomeUtilizador'] = $log ['nome'];
