@@ -1,5 +1,5 @@
 <?php
 
-	$conexao = mysqli_connect("localhost","id11408406_chambaljr","123456","id11408406_gaac");
+	$conexao = mysqli_connect("sql12.freemysqlhosting.net","sql12348055","mT13vdYFBG","sql12348055");
 
 ?>
