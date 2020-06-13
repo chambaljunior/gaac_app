@@ -13,7 +13,7 @@
 
     $queryLogin = " SELECT * FROM utilizador WHERE  nomeUtilizador = '$nomeUtilizador' AND senha ='$senha' LIMIT 1" ;
     $resultado_login = mysqli_query($conexao, $queryLogin);
-    $log = mysqli_fetch_assoc ($resultado_login) or die (header("Location: ../vistas/index.php"));
+    $log = mysqli_fetch_assoc ($resultado_login) or die (header("Location: ../index.php"));
 
     if(empty($log )){
         //Mensagem de Erro		        
