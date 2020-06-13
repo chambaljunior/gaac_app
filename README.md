@@ -12,3 +12,7 @@
 
 
 # Arquitectura de Deployment
+##### A arquitectura de deployment foi a plataforma Heroku, escolhida pelo facil uso e controle directo com o repositorio directamento github.
+##### Link de acesso: https://gaac.herokuapp.com/ 
+##### Usuário: Pedro
+##### Senha: 12345
