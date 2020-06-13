@@ -12,7 +12,8 @@
 
 
 # Arquitectura de Deployment
-##### A arquitectura de deployment foi a plataforma Heroku, escolhida pelo facil uso e controle directo com o repositorio directamento github.
+##### A arquitectura de deployment foi a plataforma Heroku, escolhida pelo facil uso e controle directo com o repositorio directamento github, e o uso de freemysqlhosting.net (opcional) para alocação da base de dados, existe essa interação entre as duas plataformas com vista a atenderem os modelos de caso de uso da aplicação nesta fase 1.
+
 ##### Link de acesso: https://gaac.herokuapp.com/ 
 ##### Usuário: Pedro
 ##### Senha: 12345
