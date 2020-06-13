@@ -7,7 +7,7 @@
 ##### Sistema Operativo: Microsoft Windows,
 ##### Runtime Enviroment: PHP 7,
 ##### Servidor Web: Wamp v3.3.0 ou Xampp v7.2.31 (opcional),
-##### DBMS: phpMyAdmin v4.9.5,
+##### DBMS: MySQL - phpMyAdmin v4.9.5,
 ##### Editor de Texto: Visual Studio Code v1.46.
 
 
