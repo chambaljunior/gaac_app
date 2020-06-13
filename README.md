@@ -1,4 +1,5 @@
 # gaac_app
+#### GAAC APP é uma aplicação de controle de membros de Grupos de Adesão Comunitária vivendo com HIV, é uma aplicação em fase de desenvolvimento. A plataforma escolhida para a operação da aplicação são dispositivos tablets.
 
 ##### O controle das versões do projecto é feita com a ferramenta https://packagist.org/ em conexão com a opção de controle interna das versões do GitHub (release).
 
