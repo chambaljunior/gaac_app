@@ -25,5 +25,5 @@ Android Browser 2.2+
 ##### Usuário: Pedro
 ##### Senha: 12345
 
-##### Foi usado a arquitetura 3-tier conforme o diagrama ![alt text](https://github.com/chambaljunior/gaac_app/blob/master/Implantacao_3Tier.png)
-##### A interação entre os componentes, artefactos e aplicacoes pode-se observar no diagrama ![alt text](https://github.com/chambaljunior/gaac_app/blob/master/Componentes.png)
+##### Foi usado a arquitetura 3-tier conforme o diagrama abaixo ![alt text](https://github.com/chambaljunior/gaac_app/blob/master/Implantacao_3Tier.png)
+##### A interação entre os componentes, artefactos pode-se observar no diagrama abaixo ![alt text](https://github.com/chambaljunior/gaac_app/blob/master/Componentes.png)
