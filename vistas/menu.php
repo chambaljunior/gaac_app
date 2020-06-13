@@ -16,7 +16,7 @@
 				<li style="color: white;"><a href="index.php?link=4"><center> <i class="fas fa-notes-medical fa-2x"></i><br>CLINICA HIV</center></a></li>
 				<li style="color: white;"><a href="index.php?link=5"><center> <i class="fas fa-chat fa-2x"></i></center></a></li>
 				<li style="color: white;"><a href="index.php?link=6"><center><i class="fas fa-home fa-2x "></i><br>ALDEIAS</center></a></li>
-				<li style="color: white;"><a href="https://nnema.000webhostapp.com/"><center>FECHAR SESSAO</center></a></li>
+				<li style="color: white;"><a href="https://gaac.herokuapp.com/"><center>FECHAR SESSAO</center></a></li>
 			</ul>
 		</nav>
 
